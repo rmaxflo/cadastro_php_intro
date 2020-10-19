@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Formulário Preenchido</title>
+
+
+
+</head>
+<body>
+	<div class="box">
+		<form action="teste.php" method="POST">
+			<label>Nome</label>
+			<input type="date" name="data" value="1980-12-06">
+		</form>
+	</div>
+
+</body>
+</html>
